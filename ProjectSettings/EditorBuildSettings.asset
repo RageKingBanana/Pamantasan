@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Persistent.unity
+    guid: e1dfe665f24fcd2498430c26669f61d3
+  - enabled: 1
+    path: Assets/Scenes/Opening_FirstTime.unity
+    guid: aa7c883d75a7be54f954340881497baa
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: c05dcd94eaac7b94aa6ddf0b74a0bb87
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7219d7f236b67d241a7a80585a9a3042
+  - enabled: 1
+    path: Assets/Scenes/GameModeMenu.unity
+    guid: 8247e172a7a09024b8f439d6b8f23a5a
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: eb9752fae953f1a4dbbcb39ef62da314
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_GuessIt.unity
+    guid: baedb0214d24cc540b634c1f6787bcf2
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_QuizUp.unity
+    guid: 94f8092424bb9a548906d5b7285187bc
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_TrueOrFalse.unity
+    guid: b87b65868117dfc4282d0ab12c1ad7f4
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_Resist.unity
+    guid: b02966600c6909048bdff33dc79d0bde
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_Pawer.unity
+    guid: 470e93cb0107cda4e9c87a75ed4e72cd
+  - enabled: 1
+    path: Assets/Scenes/Game_GuessIt.unity
+    guid: 4789430f691cf644b980afc32ebcfdf3
+  - enabled: 1
+    path: Assets/Scenes/Game_QuizUp.unity
+    guid: 3d40b783fe2e38443961cbc4a03b82e9
+  - enabled: 1
+    path: Assets/Scenes/Game_TrueOrFalse.unity
+    guid: eca898d048610d54c95f732120c9aa84
+  - enabled: 1
+    path: Assets/Scenes/Game_Resist.unity
+    guid: f38f61f1b31d3cf4c89c31344e75ccae
+  - enabled: 1
+    path: Assets/Scenes/Game_Pawer.unity
+    guid: 11fc40ad026c61d4dafcc44cc657e162
+  m_configObjects: {}
